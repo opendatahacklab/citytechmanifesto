@@ -1,14 +1,19 @@
 Negli ultimi decenni le tecnologie della comunicazione hanno assunto un ruolo sempre più prominente nelle nostre vite. Da un lato Internet è diventato la porta di accesso 
-alla conoscenza universale e, in quanto tale. Dall'altro, l'accesso ai servizi pubblici (dai benefici previdenziali alle informazioni sul rendimento scolastico dei figli) e le forme
-di partecipazione alla vita democratica passano sempre più spesso da internet. Per questi motivi molti propongono di considerare Internet un bene comune e quindi che l'accesso 
+alla conoscenza universale. Dall'altro, l'accesso ai servizi pubblici (dai benefici previdenziali alle informazioni sul rendimento scolastico dei figli) e le forme
+di partecipazione alla vita democratica passano sempre più spesso da internet. Per questi motivi molti propongono di considerare Internet un bene comune.  Come tale, l'accesso 
 ad Internet debba essere parimenti garantito a tutti gli esseri umani.  
 
 I punti sui quali agire per rendere effettivo e universale il diritto di accesso sono molteplici.
 
 In primis c'è il livello infrastrutturale, che riguarda la strumentazione e la disponibilità di connessione. In ambito metropolitano sul territorio italiano 
-possiamo ragionevolmente assumere capillare la disponibilità di connessione ad Internet. Tuttavia questo non significa che essa sia disponibile a tutta la popolazione: 
+possiamo ragionevolmente assumere che la disponibilità di connessione ad Internet sia capillare. Tuttavia questo non significa che essa sia disponibile a tutta la popolazione:
 esistono infatti oggi fasce di popolazione che non possono accedere ai servizi di accesso ad Internet a pagamento a causa di situazioni di disagio economico o per altre
-cause contingenti. Al fine di garantire l'accesso al sapere condiviso fornito attraverso Internet è auspicabile l'implementazione di una rete WiFi ad accesso gratuito, 
-come già accade nella gran parte delle città italiane, dispobile 24 ore al giorno su tutto il territorio comunale, con particolare riguardo alle zone nelle quali si 
-concentrano le sacche di disagio. 
+cause contingenti (studenti fuori sede, foreing workers, ...). Al fine di garantire l'accesso al sapere condiviso fornito attraverso Internet è auspicabile l'implementazione di una rete
+WiFi pubblica ad accesso gratuito, come già accade nella gran parte delle città italiane, dispobile 24 ore al giorno su tutto il territorio comunale, con particolare riguardo alle zone nelle quali si 
+concentrano le situazioni di disagio.  
+
+Per venire incontro anche a chi sempre per motivi economici o cause contingenti non ha a disposizione la strumentazione
+adeguata è opportuno che i luoghi pubblici vengano dotati di postazioni di accesso ad Internet a disposizione dei cittadini,
+senza limitazioni sulla tipologia di utilizzo nelle fasce orarie adeguate alle esigenze della popolazione.
+
 
