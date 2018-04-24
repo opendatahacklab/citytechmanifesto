@@ -33,3 +33,5 @@ lo richieda oppure, ove impossibile, che la selezione avvenga attraverso meccani
 
 Catania 24/04/2018    #lifeoutoffb
 
+Questo testo viene rilasciato come di Pubblico Dominio CC0
+
