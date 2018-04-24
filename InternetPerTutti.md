@@ -1,3 +1,7 @@
+**Internet per Tutti**
+un suggerimento per gli attori della politica e della società civile, uno spunto di riflessione per tutti I cittadini
+
+
 Negli ultimi decenni le tecnologie della comunicazione hanno assunto un ruolo sempre più prominente nelle nostre vite. Da un lato Internet è diventato la porta di accesso 
 alla conoscenza universale. Dall'altro, l'accesso ai servizi pubblici (dai benefici previdenziali alle informazioni sul rendimento scolastico dei figli) e le forme
 di partecipazione alla vita democratica passano sempre più spesso da internet. Per questi motivi molti propongono di considerare Internet un Bene Comune.  Come tale, l'accesso 
@@ -27,6 +31,5 @@ a chi intende implementare attività di questo genere. Si pensi ad esempio a tut
 patrimonio immobiliare pubblico.  Affinchè il supporto pubblico sia effettivo e plurale, è fondamentale che venga assegnato a chiunque
 lo richieda oppure, ove impossibile, che la selezione avvenga attraverso meccanismi trasparenti e di facile accesso.
 
-
-
+Catania 24/04/2018    #lifeoutoffb
 
